@@ -1,0 +1,21 @@
+﻿<PlayerBaseData>
+	
+  <Player characterIndex="0" characterName="브리이드" baseHP="100" baseGuard="110"
+          baseAttackMelee="120" baseAttackRange="130" baseDefence="140"
+          baseCriticalChance="0.05" baseCriticalRate="1.5"
+          baseSpeed="0.1" baseEvadeTime="0.02" baseKnockTime="0.9" baseBlockHoldTime="1.1" baseRangeOfMelee="1.05">
+  </Player>
+
+  <Player characterIndex="1" characterName="크리이드" baseHP="100" baseGuard="110"
+          baseAttackMelee="120" baseAttackRange="130" baseDefence="140"
+          baseCriticalChance="0.05" baseCriticalRate="1.5"
+          baseSpeed="0.1" baseEvadeTime="0.02" baseKnockTime="0.9" baseBlockHoldTime="1.1" baseRangeOfMelee="1.05">
+  </Player>
+
+  <Player characterIndex="2" characterName="프리이드" baseHP="100" baseGuard="110"
+          baseAttackMelee="120" baseAttackRange="130" baseDefence="140"
+          baseCriticalChance="0.05" baseCriticalRate="1.5"
+          baseSpeed="0.1" baseEvadeTime="0.02" baseKnockTime="0.9" baseBlockHoldTime="1.1" baseRangeOfMelee="1.05">
+  </Player>
+
+</PlayerBaseData>

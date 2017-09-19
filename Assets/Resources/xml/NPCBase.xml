@@ -1,0 +1,27 @@
+﻿<NPCBaseData>
+  
+  <npc npcIndex="0" npcName="오우거" npcType="1" enemyType="2" baseHP="200" baseGuard="210"
+          baseAttackMelee="220" baseAttackRange="230" baseDefence="240"
+          baseCriticalChance="0.052" baseCriticalRate="1.52"
+          baseSpeed="0.1" baseEvadeTime="0.022" baseKnockTime="0.92" baseBlockHoldTime="1.12" baseRangeOfMelee="1.052">
+  </npc>
+  
+  <npc npcIndex="1" npcName="오크" npcType="1" enemyType="1" baseHP="200" baseGuard="210"
+          baseAttackMelee="220" baseAttackRange="230" baseDefence="240"
+          baseCriticalChance="0.052" baseCriticalRate="1.52"
+          baseSpeed="0.1" baseEvadeTime="0.022" baseKnockTime="0.92" baseBlockHoldTime="1.12" baseRangeOfMelee="1.052">
+  </npc>
+  
+  <npc npcIndex="2" npcName="트럴" npcType="1" enemyType="3" baseHP="200" baseGuard="210"
+          baseAttackMelee="220" baseAttackRange="230" baseDefence="240"
+          baseCriticalChance="0.052" baseCriticalRate="1.52"
+          baseSpeed="0.1" baseEvadeTime="0.022" baseKnockTime="0.92" baseBlockHoldTime="1.12" baseRangeOfMelee="1.052">
+  </npc>
+  
+  <npc npcIndex="3" npcName="겁에질린병사" npcType="0" enemyType="0" baseHP="200" baseGuard="210"
+          baseAttackMelee="220" baseAttackRange="230" baseDefence="240"
+          baseCriticalChance="0.052" baseCriticalRate="1.52"
+          baseSpeed="0.1" baseEvadeTime="0.022" baseKnockTime="0.92" baseBlockHoldTime="1.12" baseRangeOfMelee="1.052">
+  </npc>
+
+</NPCBaseData>

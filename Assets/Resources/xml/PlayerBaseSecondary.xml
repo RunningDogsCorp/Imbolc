@@ -1,0 +1,12 @@
+﻿<PlayerBaseSecondaryData>
+	
+  <Player characterIndex="0" baseSufferCriticalChance="1.0" baseSufferCriticalRate="1.0">
+  </Player>
+
+  <Player characterIndex="1" baseSufferCriticalChance="1.0" baseSufferCriticalRate="1.0">
+  </Player>
+
+  <Player characterIndex="2" baseSufferCriticalChance="1.0" baseSufferCriticalRate="1.0">
+  </Player>
+
+</PlayerBaseSecondaryData>

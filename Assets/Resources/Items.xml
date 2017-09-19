@@ -1,0 +1,27 @@
+﻿<Items>
+  <Item id="00" name="Dager" price="1000" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="01" name="Dager1" price="1200" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="02" name="Dager2" price="1400" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="03" name="Dager3" price="1600" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="04" name="Dager4" price="1800" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="05" name="Dager5" price="2000" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="06" name="Dager6" price="2200" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="07" name="Dager7" price="2400" upgradePriceRatio="1.6" type="1" value="10.0"/>
+  <Item id="08" name="Gaurder" price="810" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="09" name="Gaurder1" price="820" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="10" name="Gaurder2" price="830" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="11" name="Gaurder3" price="840" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="12" name="Gaurder4" price="850" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="13" name="Gaurder5" price="860" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="14" name="Gaurder6" price="870" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="15" name="Gaurder7" price="880" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="16" name="Gaurder8" price="890" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="17" name="Gaurder9" price="900" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="18" name="Gaurder10" price="910" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="19" name="Gaurder11" price="920" upgradePriceRatio="1.6" type="0" value="4.0"/>
+  <Item id="20" name="WoodShield" price="1400" upgradePriceRatio="1.6" type="2" value="6.0"/>
+  <Item id="21" name="WoodShield1" price="1800" upgradePriceRatio="1.6" type="2" value="6.0"/>
+  <Item id="22" name="WoodShield2" price="2200" upgradePriceRatio="1.6" type="2" value="6.0"/>
+  <Item id="23" name="WoodShield3" price="2600" upgradePriceRatio="1.6" type="2" value="6.0"/>
+  <Item id="24" name="WoodShield4" price="3000" upgradePriceRatio="1.6" type="2" value="6.0"/>
+</Items>

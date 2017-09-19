@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: 45aef4035ed9ca1458cca8497041cc19
+timeCreated: 1492355952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerSample_Atk1_00
+    21300002: PlayerSample_Atk1_01
+    21300004: PlayerSample_Atk1_02
+    21300006: PlayerSample_Atk1_03
+    21300008: PlayerSample_Atk1_04
+    21300010: PlayerSample_Atk1_05
+    21300012: PlayerSample_Atk2_00
+    21300014: PlayerSample_Atk3_00
+    21300016: PlayerSample_Atk3_06
+    21300018: PlayerSample_Atk4_03
+    21300020: PlayerSample_Atk5_02
+    21300022: PlayerSample_Gaurd00
+    21300024: PlayerSample_Gaurd16
+    21300026: PlayerSample_BackDumblling00
+    21300028: PlayerSample_Dumblling00
+    21300030: PlayerSample_Atk2_01
+    21300032: PlayerSample_Atk2_02
+    21300034: PlayerSample_Atk2_03
+    21300036: PlayerSample_Atk2_04
+    21300038: PlayerSample_Atk2_05
+    21300040: PlayerSample_Atk3_05
+    21300042: PlayerSample_Atk3_04
+    21300044: PlayerSample_Atk3_03
+    21300046: PlayerSample_Atk3_02
+    21300048: PlayerSample_Atk3_01
+    21300050: PlayerSample_Atk3_07
+    21300052: PlayerSample_Atk3_08
+    21300054: PlayerSample_Atk4_00
+    21300056: PlayerSample_Atk4_01
+    21300058: PlayerSample_Atk4_02
+    21300060: PlayerSample_Atk4_04
+    21300062: PlayerSample_Atk4_05
+    21300064: PlayerSample_Atk4_06
+    21300066: PlayerSample_Atk5_00
+    21300068: PlayerSample_Atk5_01
+    21300070: PlayerSample_Atk5_03
+    21300072: PlayerSample_Atk5_04
+    21300074: PlayerSample_Atk5_05
+    21300076: PlayerSample_Gaurd01
+    21300078: PlayerSample_Gaurd02
+    21300080: PlayerSample_Gaurd03
+    21300082: PlayerSample_Gaurd04
+    21300084: PlayerSample_Gaurd05
+    21300086: PlayerSample_Gaurd06
+    21300088: PlayerSample_Gaurd07
+    21300090: PlayerSample_Gaurd08
+    21300092: PlayerSample_Gaurd09
+    21300094: PlayerSample_Gaurd10
+    21300096: PlayerSample_Gaurd11
+    21300098: PlayerSample_Gaurd12
+    21300100: PlayerSample_Gaurd13
+    21300102: PlayerSample_Gaurd14
+    21300104: PlayerSample_Gaurd15
+    21300106: PlayerSample_BackDumblling01
+    21300108: PlayerSample_BackDumblling02
+    21300110: PlayerSample_BackDumblling03
+    21300112: PlayerSample_BackDumblling04
+    21300114: PlayerSample_BackDumblling05
+    21300116: PlayerSample_BackDumblling06
+    21300118: PlayerSample_BackDumblling07
+    21300120: PlayerSample_BackDumblling08
+    21300122: PlayerSample_BackDumblling09
+    21300124: PlayerSample_BackDumblling10
+    21300126: PlayerSample_BackDumblling11
+    21300128: PlayerSample_Dumblling02
+    21300130: PlayerSample_Dumblling03
+    21300132: PlayerSample_Dumblling04
+    21300134: PlayerSample_Dumblling05
+    21300136: PlayerSample_Dumblling06
+    21300138: PlayerSample_Dumblling07
+    21300140: PlayerSample_Dumblling08
+    21300142: PlayerSample_Dumblling09
+    21300144: PlayerSample_Dumblling10
+    21300146: PlayerSample_Dumblling11
+    21300148: PlayerSample_Dumblling12
+    21300150: PlayerSample_Dumblling01
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_01
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_02
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_03
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_04
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk1_05
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1792
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_01
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_02
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_03
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_04
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk2_05
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1536
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_05
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1280
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_04
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1278
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_03
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1280
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_02
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1280
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_01
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1280
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_07
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk3_08
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_00
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_01
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_02
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1024
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_04
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_05
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk4_06
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_00
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_01
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 768
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_03
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 512
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_04
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 512
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Atk5_05
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 512
+        width: 330
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd04
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd05
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd07
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd08
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd09
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Gaurd15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling01
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling02
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling03
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling04
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling05
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling06
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling07
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling08
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling09
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling10
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_BackDumblling11
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 128
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling02
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling03
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling04
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling05
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling06
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling07
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling08
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling09
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling10
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling11
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling12
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerSample_Dumblling01
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 154
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

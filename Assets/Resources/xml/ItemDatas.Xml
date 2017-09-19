@@ -1,0 +1,27 @@
+<Items>
+  <Item itemType="Item_HeadGear" itemName="Gaurder" lv="0" index="0" value="4" buyprice="810" upgradePriceRatio="1.6" isGetItem="True" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder1" lv="0" index="1" value="4" buyprice="820" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder2" lv="0" index="2" value="4" buyprice="830" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder3" lv="0" index="3" value="4" buyprice="840" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder4" lv="0" index="4" value="4" buyprice="850" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder5" lv="0" index="5" value="4" buyprice="860" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder6" lv="0" index="6" value="4" buyprice="870" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder7" lv="0" index="7" value="4" buyprice="880" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder8" lv="0" index="8" value="4" buyprice="890" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder9" lv="0" index="9" value="4" buyprice="900" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder10" lv="0" index="10" value="4" buyprice="910" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_HeadGear" itemName="Gaurder11" lv="0" index="11" value="4" buyprice="920" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager" lv="0" index="0" value="10" buyprice="1000" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager1" lv="0" index="1" value="10" buyprice="1200" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager2" lv="0" index="2" value="10" buyprice="1400" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager3" lv="0" index="3" value="10" buyprice="1600" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager4" lv="0" index="4" value="10" buyprice="1800" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager5" lv="0" index="5" value="10" buyprice="2000" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager6" lv="0" index="6" value="10" buyprice="2200" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Weapon" itemName="Dager7" lv="0" index="7" value="10" buyprice="2400" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Shield" itemName="WoodShield" lv="0" index="0" value="6" buyprice="1400" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Shield" itemName="WoodShield1" lv="0" index="1" value="6" buyprice="1800" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Shield" itemName="WoodShield2" lv="0" index="2" value="6" buyprice="2200" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Shield" itemName="WoodShield3" lv="0" index="3" value="6" buyprice="2600" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+  <Item itemType="Item_Shield" itemName="WoodShield4" lv="0" index="4" value="6" buyprice="3000" upgradePriceRatio="1.6" isGetItem="False" isEquip="False" />
+</Items>

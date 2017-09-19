@@ -1,0 +1,9 @@
+﻿<PlayerBaseUpgradeData>
+	
+  <Data unitHP="1000" unitGuard="1001" unitAttackMelee="1002" unitAttackRange="1003" unitDefence="1004"
+        unitEvadeTime="1005" unitKnockTime="1006" unitBlockHoldTime="1007"
+        unitCriticalBlockChance="1008" unitCriticalBlockRate="1009"
+        unitCriticalAttackChance="1010" unitCriticalAttackRate="1011">
+  </Data>
+  
+</PlayerBaseUpgradeData>
